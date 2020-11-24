@@ -40,7 +40,7 @@ namespace SandwichReactor
             this.BackColor = Color.LemonChiffon; 
             SoundPlayer player = new SoundPlayer(Properties.Resources.alert);
             player.Play();
-            OutPutLabel.Text = "reacto go boom";
+            OutPutLabel.Text = "reacto goh oom";
             OutPutLabel.BackColor = Color.Orange;
             RedBox.BackColor = Color.Yellow;
             RedBox2.BackColor = Color.Yellow;
